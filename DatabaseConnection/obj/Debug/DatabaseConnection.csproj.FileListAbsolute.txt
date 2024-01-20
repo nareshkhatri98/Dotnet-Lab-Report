@@ -1,0 +1,7 @@
+D:\DotnetLab\DatabaseConnection\obj\Debug\DatabaseConnection.csproj.AssemblyReference.cache
+D:\DotnetLab\DatabaseConnection\obj\Debug\DatabaseConnection.csproj.CoreCompileInputs.cache
+D:\DotnetLab\DatabaseConnection\bin\Debug\DatabaseConnection.exe.config
+D:\DotnetLab\DatabaseConnection\bin\Debug\DatabaseConnection.exe
+D:\DotnetLab\DatabaseConnection\bin\Debug\DatabaseConnection.pdb
+D:\DotnetLab\DatabaseConnection\obj\Debug\DatabaseConnection.exe
+D:\DotnetLab\DatabaseConnection\obj\Debug\DatabaseConnection.pdb

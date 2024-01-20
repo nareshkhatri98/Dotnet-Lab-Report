@@ -1,0 +1,7 @@
+D:\DotnetLab\lab1\bin\Debug\lab1.exe.config
+D:\DotnetLab\lab1\bin\Debug\lab1.exe
+D:\DotnetLab\lab1\bin\Debug\lab1.pdb
+D:\DotnetLab\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+D:\DotnetLab\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+D:\DotnetLab\lab1\obj\Debug\lab1.exe
+D:\DotnetLab\lab1\obj\Debug\lab1.pdb
