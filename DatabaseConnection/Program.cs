@@ -15,8 +15,8 @@ namespace DatabaseConnection
             //obj.insert();
 
             //display Query
-            DisplayOperation obj = new DisplayOperation();
-            obj.display();
+            //DisplayOperation obj = new DisplayOperation();
+            //obj.display();
 
             //Update Operation
 
@@ -31,7 +31,9 @@ namespace DatabaseConnection
             //DisplayById obj = new DisplayById();
             //obj.ShowDetailsById();
 
-
+            // login protol
+            LoginPortal obj = new LoginPortal();
+            obj.LoginProtocol();
             Console.ReadKey();
         }
     }
