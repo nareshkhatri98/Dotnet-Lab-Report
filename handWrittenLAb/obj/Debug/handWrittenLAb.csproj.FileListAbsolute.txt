@@ -1,0 +1,7 @@
+D:\DotnetLab\handWrittenLAb\bin\Debug\handWrittenLAb.exe.config
+D:\DotnetLab\handWrittenLAb\bin\Debug\handWrittenLAb.exe
+D:\DotnetLab\handWrittenLAb\bin\Debug\handWrittenLAb.pdb
+D:\DotnetLab\handWrittenLAb\obj\Debug\handWrittenLAb.csproj.AssemblyReference.cache
+D:\DotnetLab\handWrittenLAb\obj\Debug\handWrittenLAb.csproj.CoreCompileInputs.cache
+D:\DotnetLab\handWrittenLAb\obj\Debug\handWrittenLAb.exe
+D:\DotnetLab\handWrittenLAb\obj\Debug\handWrittenLAb.pdb
